@@ -12,6 +12,11 @@ body {
     background:#DCEAF4;
 }
 
+.content-wrap{
+    width:950px;
+    margin: 0 auto;
+}
+
 
 /* Header & Footer 
 ------------------------------------*/
