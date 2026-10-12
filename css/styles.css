@@ -4,7 +4,13 @@
 # - color 3: #DCEAF4 (Soft Blue)
 # - color 4: #F7F9FB (Off-White)
 */
+html{
+    box-sizing: border-box;
+}
 
+*, *:before, *:after{
+    box-sizing: inherit;
+}
 /* Global styles 
 ------------------------------------*/
 body {
